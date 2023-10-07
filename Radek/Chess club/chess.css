@@ -1,0 +1,21 @@
+img {
+    width: 100%;
+    height: auto;
+  }
+.a{
+    background-image: url("../Images/chess.jpeg");
+    padding: 5rem;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    size: 30px;
+    text-shadow:
+    2px 2px 2px #000,
+         -2px 3px 2px #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000;
+  }
+
+body{
+  background-color: brown;
+}
