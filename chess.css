@@ -16,3 +16,8 @@ body{
         2px -2px 0 #000;
   }
 
+  .flex-container{
+  display: flex;
+  background-color: dodgerblue;
+  }
+
