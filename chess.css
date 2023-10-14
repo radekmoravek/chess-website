@@ -1,6 +1,8 @@
 
 body{
-  background-image: url(Images/chess_board.jpeg);
+  background-image: url("Images/chess_board.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .a{
 
@@ -19,5 +21,11 @@ body{
   .flex-container{
   display: flex;
   background-color: dodgerblue;
+  padding: 5vh;
+  }
+
+  img{
+    width: 15vh;
+    padding: 5vh;
   }
 
